@@ -1,7 +1,7 @@
 function Banner() {
   return (
     <h1>
-        Olá Mundo
+        Olá Mundo!
     </h1>
   );
 }
